@@ -1,2 +1,2 @@
-# potential-engine
-[toyproject 4] 👵🤖 Cooking Recipes Taught by a Feisty Grandma with a Sharp Tongue
+# [toyproject 4] api chatbot
+👵🤖 Cooking Recipes Taught by a Feisty Grandma with a Sharp Tongue
